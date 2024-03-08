@@ -1,2 +1,3 @@
 # rock-paper-scissors
-Learning javascript
+Learning javascript;
+Practicing html and css;
